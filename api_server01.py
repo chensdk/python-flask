@@ -208,4 +208,4 @@ def get_data():
 
 if __name__ == '__main__':
 
-    app.run(debug=True, port=5010)
+    app.run(debug=True, port=5000)
