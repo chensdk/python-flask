@@ -6,3 +6,4 @@ flask , requests
 
 Using SQLite3 to Simulate PLC Register Read and Write Operations
 Creating SQLite3 Database and Register Table
+Mitsubishi PLC using TCP/IP communication
